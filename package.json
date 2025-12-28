@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://night677coder.github.io/nightfall.com/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
