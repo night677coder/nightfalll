@@ -1,6 +1,6 @@
-# 🎬 NIGHTFALL - Watch Movies for FREE
+# 🎬 NIGHTFALL.COM - Watch Movies for FREE
 
-Welcome to **NIGHTFALL**, your go-to destination for streaming thousands of movies and shows absolutely free!
+Welcome to **NIGHTFALL.COM**, your go-to destination for streaming thousands of movies and shows absolutely free!
 
 ## 📺 What You'll Find
 
@@ -10,7 +10,7 @@ Welcome to **NIGHTFALL**, your go-to destination for streaming thousands of movi
   - Horror
   - Sci-Fi
   - Crime
-  - NIGHTFALL Originals
+  - NIGHTFALL.COM Originals
 
 ## 🚀 Start Streaming Now
 
