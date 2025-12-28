@@ -57,5 +57,5 @@ export default defineConfig(({ mode }) => ({
     sourcemap: false,
     minify: 'esbuild'
   },
-  base: '/',
+  base: '/nightfall.com/',
 }))
